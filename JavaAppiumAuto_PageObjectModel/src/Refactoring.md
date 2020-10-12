@@ -1,0 +1,2 @@
+*PageObjectModel 
+Рефакторинг тестов 
